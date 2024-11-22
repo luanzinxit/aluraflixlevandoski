@@ -8,8 +8,8 @@ padding-top: 80px;
 display: flex;
 justify-content: center;
 }
-div{
-margin:0px;
+.chamada-texto{
+    margin:5%;
 }
 
 header {
